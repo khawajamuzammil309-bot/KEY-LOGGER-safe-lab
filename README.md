@@ -1,4 +1,4 @@
-# M | Keylogger - Safe Lab Version
+# | Keylogger - Safe Lab Version
 
 A simple Python-based Keylogger made for learning and internship purpose only.
 
@@ -33,5 +33,5 @@ Check Log File: cat keylog.txt
 
 ## Author
 
-M - Khawaja Muzammil
+ Khawaja Muzammil
 Cyber Security Intern | Arch Technologies
